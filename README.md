@@ -1,6 +1,7 @@
 # CleanCode
 
-Cours sur la qualité du code.
+Cours sur la qualité du code. 
+[![Build Status](https://travis-ci.org/Abouvet94/cleancode.svg?branch=master)](https://travis-ci.org/Abouvet94/cleancode)
 
 ## Image Docker
 
